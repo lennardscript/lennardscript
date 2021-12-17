@@ -1,3 +1,4 @@
+<h1 align="center">Hola, soy 🔸Lennard🔸</h1>
 <h3 align="center">Computer engineering student</h3>
 
 <h3 align="left">Connect with me:</h3>
