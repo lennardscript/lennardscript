@@ -1,6 +1,8 @@
 <h1 align="center">Hi! I'm 🔸Lennard🔸</h1>
 <h3 align="center">Computer engineering student</h3>
 
+![coffee-code](https://user-images.githubusercontent.com/79296064/146647383-2933ec43-6a9c-409c-8cb3-01e4f6fee062.gif)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://instagram.com/lennard_script" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="lennard_script" height="30" width="40" /></a>
