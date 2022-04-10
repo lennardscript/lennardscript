@@ -1,5 +1,18 @@
-# Hi! I'm Lennard 👋
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/lOs74pwVzfZElO3VDY/giphy.gif" width="200"/>
+  <h1>
+    Hello, there!
+    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+  </h1>
+</div>
 
-I'm computer engineering student and I have fun programming on my days off
+<div align="center">
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif"/>
+</div>
 
-![coffee-code](https://user-images.githubusercontent.com/79296064/146647383-2933ec43-6a9c-409c-8cb3-01e4f6fee062.gif)
+---
+
+### 👨‍💻 About me:
+I'm a study computer engineer 💻 from Chile
+
+- 👾 I like to try new things.
