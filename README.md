@@ -16,4 +16,3 @@
 I'm a study computer engineer 💻 from Chile
 
 - 👾 I like to try new things.
-- ♨️ I'm developing a Java application to help my dad: a phone book.
