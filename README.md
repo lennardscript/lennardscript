@@ -20,7 +20,7 @@ I'm a study computer engineer 💻 from Chile
 
 ---
 
-## 🔭 Technology:
+## 🔭 Technologies:
 <div>
   
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" heigth="40">
