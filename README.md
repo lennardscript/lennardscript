@@ -12,7 +12,7 @@
 
 ---
 
-## 👨‍💻 About me:
+# 👨‍💻 About me:
 I'm a study computer engineer 💻 from Chile
 
 - 👾 I like to try new things.
@@ -20,7 +20,7 @@ I'm a study computer engineer 💻 from Chile
 
 ---
 
-## 🔭 Technologies:
+# 🔭 I'm learning these technologies:
 <div>
   
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" heigth="40">
@@ -40,3 +40,5 @@ I'm a study computer engineer 💻 from Chile
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" alt="Git" width="40" heigth="40">
   
 </div>
+
+---
