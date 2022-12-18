@@ -38,7 +38,7 @@
        </td>
          <td width="80px" align="center">
          <span><strong>Java</strong></span><br>
-         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="32">
+         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" title="Java" alt="Java" height="32">
          </td>
       <td width="80px" align="center">
         <span><strong>HTML5</strong></span>
@@ -100,7 +100,7 @@
       </td>
       <td width="80px" align="center">
         <span><strong>Docker</strong></span>
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" height="40"/>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" title="Docker" alt="Docker" width="40" height="40"/>
       </td>
       <td width="80px" align="center">
         <span><strong>Linux</strong></span>
