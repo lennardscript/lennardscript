@@ -78,7 +78,7 @@
       </td>
       <td width="80px" align="center">
         <span><strong>Ionic</strong></span>
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ionic/ionic-original-wordmark.svg" title="Ionic" alt="Ionic" width="40" height="40"/>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ionic/ionic-original.svg" title="Ionic" alt="Ionic" width="40" height="40"/>
       </td>
       <td width="80px" align="center">
         <span><strong>MongoDB</strong></span>
