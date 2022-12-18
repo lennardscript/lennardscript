@@ -45,7 +45,7 @@
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" title="HTML5" alt="HTML5" width="40" height="40"/>
       </td>
       <td width="80px" align="center">
-        <span><strong>CSS5</strong></span>
+        <span><strong>CSS3</strong></span>
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" title="CSS3" alt="CSS3" width="50" height="40"/>
       </td>
     </tr>
