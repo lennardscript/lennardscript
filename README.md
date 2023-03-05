@@ -1,20 +1,28 @@
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/lOs74pwVzfZElO3VDY/giphy.gif" width="200"/>
-  <h1>
-    Hello, there! 
-    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"/>
-  </h1>
-</div>
+<div align="justify">
 
-<div align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif"/>
-</div>
+<!-- Profile -->
+<p align="left"><strong><samp>「</samp></strong></p>
+  <p align="center">
+    <samp>
+      <b>
+        Hello There
+      <br>
+        I'm Leandro Burgos Corvalán, a study computer enginner from Chile
+      </b>
+      <br>
+        <image src="https://readme-typing-svg.herokuapp.com/?font=Iosevka&size=16&color=6791c9&center=true&width=410&height=45&lines=Programador+|+Ingeniero%20en%20inform%C3%A1tica">
+      <br>
+      <b>
+        ~ Leandro Burgo Corvalán ~
+      </b>
+    </samp>
+  </p>
+<p align="right"><strong><samp>」</samp></strong></p>
 
 ---
 
 <details>
   <summary><b>👨‍💻 About me</b></summary></br>
-  I'm a study computer engineer 💻 from Chile
   
   - 👾 I like to try new things.
   - 🌱 Contributing to Open Source.
