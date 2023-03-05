@@ -13,7 +13,7 @@
         <image src="https://readme-typing-svg.herokuapp.com/?font=Iosevka&size=16&color=6791c9&center=true&width=410&height=45&lines=Programador+|+Ingeniero%20en%20inform%C3%A1tica">
       <br>
       <b>
-        ~ Leandro Burgo Corvalán ~
+        ~ Leandro Burgos Corvalán ~
       </b>
     </samp>
   </p>
