@@ -30,7 +30,6 @@
 <p align="center">
   <samp>
     [<a href="mailto:lea.burgoscorv@gmail.com">My E-mail</a>]
-    [<a href="www.linkedin.com/in/leandro-burgos-corvalán-b08318267">LinkedIn</a>]
   </samp>
 </p>
 
