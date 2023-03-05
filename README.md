@@ -7,7 +7,7 @@
       <b>
         Hello there!
       <br>
-        I'm Leandro Burgos Corvalán, a study computer enginner from Chile
+        I'm Leandro, a study computer enginner from Chile
       </b>
       <br>
         <image src="https://readme-typing-svg.herokuapp.com/?font=Iosevka&size=16&color=6791c9&center=true&width=410&height=45&lines=Programador+|+Ingeniero%20en%20inform%C3%A1tica">
