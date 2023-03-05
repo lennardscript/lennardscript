@@ -5,7 +5,7 @@
   <p align="center">
     <samp>
       <b>
-        Hello There
+        Hello there!
       <br>
         I'm Leandro Burgos Corvalán, a study computer enginner from Chile
       </b>
@@ -19,18 +19,26 @@
   </p>
 <p align="right"><strong><samp>」</samp></strong></p>
 
----
+<br>
 
 <details>
-  <summary><b>👨‍💻 About me</b></summary></br>
+<summary><samp><b>More Info</b></samp></summary>
+
+<h2></h2><br>
+
+<!-- Contact Me -->
+<p align="center">
+  <samp>
+    [<a href="mailto:lea.burgoscorv@gmail.com">My E-mail</a>]
+    [<a href="www.linkedin.com/in/leandro-burgos-corvalán-b08318267">LinkedIn</a>]
+  </samp>
+</p>
+
+<h2></h2><br>
   
-  - 👾 I like to try new things.
-  - 🌱 Contributing to Open Source.
-</details>
+ </div>
 
----
-
-## 🔭 I'm learning these technologies:
+## 👾 I'm learning these technologies:
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=101010)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white&labelColor=101010)
