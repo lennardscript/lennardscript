@@ -35,6 +35,15 @@
 
 <h2></h2><br>
   
+ <!-- Profile Views Badge -->
+<p align="center">
+  <samp>
+  <a href="#--------">
+    <img src="https://komarev.com/ghpvc/?username=lennardscript&label=Profile+Views&color=grey" alt="Profile views"/> 
+  </a>
+  </samp>
+</p>
+  
  </div>
 
 ## 👾 I'm learning these technologies:
