@@ -19,32 +19,8 @@
   </p>
 <p align="right"><strong><samp>」</samp></strong></p>
 
-<br>
-
-<details>
-<summary><samp><b>More Info</b></samp></summary>
-
-<h2></h2><br>
-
-<!-- Contact Me -->
-<p align="center">
-  <samp>
-    [<a href="mailto:lea.burgoscorv@gmail.com">My E-mail</a>]
-  </samp>
-</p>
-
-<h2></h2><br>
-  
- <!-- Profile Views Badge -->
-<p align="center">
-  <samp>
-  <a href="#--------">
-    <img src="https://komarev.com/ghpvc/?username=lennardscript&label=Profile+Views&color=grey" alt="Profile views"/> 
-  </a>
-  </samp>
-</p>
-  
- </div>
+---
+[![](https://visitcount.itsvg.in/api?id=lennardscript&icon=0&color=4)](https://visitcount.itsvg.in)
 
 ## 👾 I'm learning these technologies:
 
@@ -83,3 +59,11 @@
 <br>
 ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?logo=androidstudio&logoColor=fff&style=for-the-badge)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=lennardscript&theme=nightowl&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=lennardscript&theme=nightowl&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=lennardscript&theme=nightowl&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=lennardscript&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
