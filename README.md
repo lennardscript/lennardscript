@@ -20,7 +20,11 @@
 <p align="right"><strong><samp>」</samp></strong></p>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=lennardscript&icon=0&color=4)](https://visitcount.itsvg.in)
+<div align="center">
+<br><p align="centre"><b>Visitors Count 👽 </b></p>  
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{👽}/count.svg" /></p> 
+<br>
+</div>
 
 ## 👾 I'm learning these technologies
 
@@ -58,9 +62,12 @@
 <br>
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=lennardscript&theme=nightowl&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=lennardscript&theme=nightowl&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=lennardscript&theme=nightowl&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<div align="center">  
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=lennardscript&show_icons=true&count_private=true&hide_border=true&title_color=02D9F7FF&icon_color=02D9F7FF&text_color=c9d1d9&bg_color=0d1117" alt="Bastian Dev github stats" /> 
+  
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lennardscript&layout=compact&hide_border=true&title_color=02D9F7FF&text_color=02D9F7FF&bg_color=0d1117" />
+</div> 
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=lennardscript&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
+<p align="center">
+<img width="725em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lennardscript&theme=github_dark" />
+</p>
