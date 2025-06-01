@@ -48,7 +48,8 @@
 <br>
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6.svg?style=for-the-badge&logo=TypeScript&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=000&style=for-the-badge)
-![Solid](https://img.shields.io/badge/Solid-2C4F7C?logo=solid&logoColor=fff&style=for-the-badge)
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?logo=vuedotjs&logoColor=fff&style=for-the-badge)
+![Nuxt.js](https://img.shields.io/badge/Nuxt-00DC82?logo=nuxt&logoColor=fff&style=for-the-badge)
 
 ## Mobile applications 📱
 ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
