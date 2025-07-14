@@ -1,30 +1,3 @@
-<div align="justify">
-
-<p align="left"><strong><samp>「</samp></strong></p>
-  <p align="center">
-    <samp>
-      <b>
-        Hello there!
-      <br>
-        I'm Leandro, graduated computer engineer from Chile
-      </b>
-      <br>
-        <image src="https://readme-typing-svg.herokuapp.com/?font=Iosevka&size=16&color=6791c9&center=true&width=410&height=45&lines=Programmer+|+Computer%20%20Engineer">
-      <br>
-      <b>
-        ~ Leandro Burgos Corvalán ~
-      </b>
-    </samp>
-  </p>
-<p align="right"><strong><samp>」</samp></strong></p>
-
----
-<div align="center">
-<br><p align="centre"><b>Visitors Count 👽 </b></p>  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{👽}/count.svg" /></p> 
-<br>
-</div>
-
 ## 👾 I'm learning these technologies
 
 ## Backend 🌐
