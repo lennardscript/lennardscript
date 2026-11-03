@@ -42,28 +42,3 @@
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
 </p>
-
----
-
-# 📊 GitHub Stats:
-<div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=lennardscript&show_icons=true&count_private=true&hide_border=true&title_color=02D9F7FF&icon_color=02D9F7FF&text_color=c9d1d9&bg_color=0d1117" alt="Bastian Dev github stats" /> 
-  
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lennardscript&layout=compact&hide_border=true&title_color=02D9F7FF&text_color=02D9F7FF&bg_color=0d1117" />
-</div>
-
-<p align="center">
-  <img width="49%" src="https://streak-stats.demolab.com/?user=lennardscript&hide_border=true&background=0d1117&stroke=02D9F7FF&ring=02D9F7FF&fire=02D9F7FF&currStreakNum=c9d1d9&sideNums=c9d1d9&currStreakLabel=02D9F7FF&sideLabels=02D9F7FF&dates=c9d1d9" />
-</p>
-
-<p align="center">
-  <img width="725em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lennardscript&theme=github_dark" />
-</p>
-
----
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/lennardscript/lennardscript/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/lennardscript/lennardscript/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/lennardscript/lennardscript/output/github-snake.svg" />
-</picture>
